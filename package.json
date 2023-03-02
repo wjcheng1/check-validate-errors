@@ -1,0 +1,22 @@
+{
+    "name": "TestNode",
+    "version": "1.0.0",
+    "description": "This is the test repo",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/test/testnode.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/test/testnode/issues"
+    },
+    "homepage": "https://github.com/test/testnode#readme",
+    "engines": {
+      "node": ">=15.10.3 <17"
+    }
+}
